@@ -66,8 +66,8 @@ git push origin feature/logout
 
 ![image](https://github.com/user-attachments/assets/97bf7566-4712-4a3d-a07b-5dd3ba9e4b6c)
 
-## 5. Tái hiện trường hợp conflix
-Trong khi merge feature/logout thì gặp CONFLIX
+## 5. Tái hiện trường hợp conflict
+Trong khi merge feature/logout thì gặp CONFLICT
 
 ![image](https://github.com/user-attachments/assets/f50b9a58-a567-4baa-b2f3-44e4b3da545e)
 
